@@ -1,3 +1,3 @@
 # Practicing React Hooks ❤️
 
-Run "npm start" to view the project!
+useState(), useEffect(), useCallback(), useRef(), useReducer(), useContext(), useMemo(), Custom Hook...
